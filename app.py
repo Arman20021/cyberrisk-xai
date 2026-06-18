@@ -1,8 +1,3 @@
-# ============================================================
-# FINAL UPDATED VERSION
-# SECURITY IMPROVEMENT RECOMMENDATIONS SECTION ADDED
-# Replace your old app.py with this file
-# ============================================================
 
 
 import streamlit as st
